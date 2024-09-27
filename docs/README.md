@@ -115,3 +115,33 @@ output:
 
 
 ## History of changes
+### branch main
+##### commit 8ba9aeb
+> Circle and square added
+##### commit d078c8d
+> Docs added
+##### commit d080c78
+> Triangle added
+##### commit 51c40eb
+> Doc updated for triangle
+##### commit d76db2a
+> Add calculate.py
+##### commit b5b0fae
+> Update docs for calculate.py
+##### commit 3049431
+> Add rectangle.py
+##### commit 6adb962
+> Docs added
+##### commit 438b89a
+> Add user agreement
+##### commit 86edb1c
+> Update Docs. Add user agreement info
+### branch new_feature_466480
+##### commit a50b09b
+> add parallelogram
+##### commit 1d6b688
+> add trapezoid
+##### commit 4ad3c31
+> correct parallelogram
+##### commit fdd9321
+> add comments
