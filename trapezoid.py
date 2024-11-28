@@ -14,7 +14,7 @@ def area(a, b, h):
 
 def perimeter(a, b, c, d):
     '''
-    Returns the perimetr of a trapezoid with given sides and bases
+    Returns the perimeter of a trapezoid with given sides and bases
 
         Parameters:
             a (double): floating point side 1

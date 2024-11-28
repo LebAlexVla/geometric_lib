@@ -13,7 +13,7 @@ def area(a, h):
 
 def perimeter(a, b):
     '''
-    Returns the perimetr of a parallelogram with given sides
+    Returns the perimeter of a parallelogram with given sides
 
         Parameters:
             a (double): floating point side

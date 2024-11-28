@@ -112,6 +112,9 @@ input:
 output:
 > 29
 
+## Testing
+Tests were performed for a trapezoid and a parallelogram. Errors were found in the results of the functions when the parameters of the figures were incorrect.
+### Table with test results
 
 
 ## History of changes
