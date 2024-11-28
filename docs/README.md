@@ -115,6 +115,7 @@ output:
 ## Testing
 Tests were performed for a trapezoid and a parallelogram. Errors were found in the results of the functions when the parameters of the figures were incorrect.
 ### Table with test results
+![](https://github.com/LebAlexVla/geometric_lib/blob/new_feature_466480/docs/table.png)
 
 
 ## History of changes
@@ -148,3 +149,5 @@ Tests were performed for a trapezoid and a parallelogram. Errors were found in t
 > correct parallelogram
 ##### commit fdd9321
 > add comments
+#### commit d8e1f7f
+> add tests
